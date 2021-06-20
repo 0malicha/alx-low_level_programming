@@ -1,4 +1,3 @@
-@@ -0,0 +1,30 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
